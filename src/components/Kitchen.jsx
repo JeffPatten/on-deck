@@ -1,5 +1,5 @@
 import React from 'react'
-import ShoppingList from './ShoppingList'
+import ShoppingList from './ShoppingList/ShoppingList'
 import Bookshelf from './Bookshelf'
 import Calendar from './Calendar'
 import dummyData from './dummyData'

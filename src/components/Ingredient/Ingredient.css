@@ -1,0 +1,14 @@
+#ingredient-li {
+    width: 30vw;
+    color: #E8DAB2;
+    background-color: #4F6D7A;
+    display: flex;
+    justify-content: space-between;    
+    padding: 0 2vw;
+    box-shadow: 5px 5px 10px #4F6D7A;
+    margin: 10px auto;
+}
+
+p {
+    display: inline-block;
+}
