@@ -43,7 +43,7 @@ const dummyData = {
     cookbooks: [
         {name: 'Family Recipes', recipes: ['placeholder 1', 'placeholder 2', 'placeholder 3']},
         {name: 'College Cookbook', recipes: ['placeholder 2', 'placeholder 3', 'placeholder 1']},
-        {name: 'Julia Child, ftw', recipes: ['placeholder 3', 'placeholder 1', 'placeholder 2']},
+        {name: 'Julia Child, ftw', recipes: ['placeholder 3', 'placeholder 1']},
     ],
     events: [
         {name: 'Birthday Party', recipes: ['placeholder 3', 'placeholder 2'], date: '2024-11-23', guests: ['mom', 'dad', 'martha', 'joey', 'steve', 'bertha', 'wanda']},
