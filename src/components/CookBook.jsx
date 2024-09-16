@@ -25,7 +25,7 @@ const CookBook = (props) => {
     return false;
   });
 
-  // console.log(recipesToDisplay);
+  console.log('recipes to display:', recipesToDisplay);
 
   //make the title clickable and have it open a modal with a carousel that flips pages of the cookbook and shows a recipe on each page.
   return (
