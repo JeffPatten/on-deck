@@ -5,7 +5,9 @@ const cors = require("cors");
 app.use(cors());
 app.use(express.json());
 
+app.get('/cookbooks', (req, res) => {
 
+})
 
 
 const SERVER_PORT = 5050;
